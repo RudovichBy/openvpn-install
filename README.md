@@ -12,3 +12,4 @@ Run the script and follow the assistant:
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
+Update to easy-rsa v3.2.7
